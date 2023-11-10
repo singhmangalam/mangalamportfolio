@@ -39,7 +39,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          'Frontend Developer specialized in creating engaging and user-friendly web experiences. With a focus on clean, responsive, and visually appealing design, I bring websites to life. Explore my work and let's bring your web projects to the next level.'
+          `'Frontend Developer specialized in creating engaging and user-friendly
+           web experiences. With a focus on clean, responsive, and visually appealing design, 
+           I bring websites to life. Explore my work and let's bring your web projects to the next level.'`
           </p>
           <div>
             <Link
